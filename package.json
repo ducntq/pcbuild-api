@@ -9,6 +9,7 @@
   "main": "app.js",
   "dependencies": {
     "express": "^4.12.3",
+    "google-cloud": "^0.44.0",
     "gstore-node": "^0.8.0",
     "jsonwebtoken": "^7.1.9",
     "swagger-express-mw": "^0.1.0"
